@@ -6,6 +6,7 @@ Hi, I'm Juan Camilo.
 - I'm a graduate student at the _Universidad Nacional de Colombia_ 🇨🇴
 - I'm also a GitHub Campus Expert 🚩
 
+
 - 🌱 I’m currently learning Rust 🦀
 
 
