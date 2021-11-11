@@ -2,9 +2,9 @@
 
 Hi, I'm Juan Camilo.
 
-- I work at Twilio as a software engineer ☎️
-- I'm a graduate student at the _Universidad Nacional de Colombia_ 🇨🇴
-- I'm also a GitHub Campus Expert 🚩
+- ☎️ I work at Twilio as a software engineer
+- 🇨🇴 I'm a graduate student at the _Universidad Nacional de Colombia_
+- 🚩 I'm also a GitHub Campus Expert
 
 ---
 
